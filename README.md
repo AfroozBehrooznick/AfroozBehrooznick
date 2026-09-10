@@ -14,31 +14,116 @@
 </div>
 ---
 
+<div align="center">
+
 ## `whoami`
 
-I'm a Computer Engineering student focused on networking
-and cybersecurity.
+</div>
 
-I learn through hands-on projects, security labs,
-network analysis, and building tools with Python.
-
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  USER        : Afrooz Behrooznick                       │
+│  ROLE        : Computer Engineering Student             │
+│  FIELD       : Cybersecurity & Networking               │
+│                                                         │
+│  INTERESTS   : Network Security                         │
+│                Penetration Testing                      │
+│                Network Analysis                         │
+│                Linux & Security Tools                   │
+│                                                         │
+│  LANGUAGES   : Python · C · C++                         │
+│                                                         │
+│  ENVIRONMENT : Linux · Windows                          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 ---
+
+<div align="center">
 
 ## `current_focus`
 
-- Network Security
-- Penetration Testing
-- Network Analysis
-- Python Security Tools
-- Linux
-- Computer Networks
+</div>
+
+```text
+[+] Network Security
+[+] Computer Networks
+[+] Ethical Hacking
+[+] Penetration Testing
+[+] Linux
+[+] Security Tooling
+```
 
 ---
+<div align="center">
 
 ## `toolbox`
 
-```text
-Languages     → Python · C · C++
-Networking    → TCP/IP · Network Analysis
-Security      → Kali Linux · Scapy · Wireshark
-Development   → Git · GitHub · Django · SQL
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### 💻 Languages
+
+`Python`  
+`C`  
+`C++`
+
+</td>
+
+<td align="center" width="250">
+
+### 🌐 Networking
+
+`TCP/IP`  
+`Network Analysis`  
+`Computer Networks`
+
+</td>
+
+<td align="center" width="250">
+
+### 🛡️ Security
+
+`Kali Linux`  
+`Scapy`  
+`Wireshark`
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250">
+
+### 🐧 Systems
+
+`Linux`  
+`Kali`  
+`Windows`
+
+</td>
+
+<td align="center" width="250">
+
+### ⚙️ Development
+
+`Git`  
+`GitHub`  
+`Django`
+
+</td>
+
+<td align="center" width="250">
+
+### 🗄️ Database
+
+`SQL`  
+`SQLite`  
+`PostgreSQL`
+
+</td>
+</tr>
+</table>
