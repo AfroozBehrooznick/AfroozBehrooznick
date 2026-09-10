@@ -1,0 +1,86 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff9c" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ff9c"/>
+      <stop offset="100%" stop-color="#00ff9c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- Network lines -->
+  <g stroke="#00ff9c" stroke-opacity="0.15" stroke-width="1">
+    <line x1="0" y1="70" x2="1000" y2="70"/>
+    <line x1="0" y1="150" x2="1000" y2="150"/>
+    <line x1="0" y1="230" x2="1000" y2="230"/>
+
+    <line x1="150" y1="0" x2="150" y2="300"/>
+    <line x1="350" y1="0" x2="350" y2="300"/>
+    <line x1="550" y1="0" x2="550" y2="300"/>
+    <line x1="750" y1="0" x2="750" y2="300"/>
+    <line x1="900" y1="0" x2="900" y2="300"/>
+  </g>
+
+  <!-- Network nodes -->
+  <g fill="#00ff9c">
+    <circle cx="150" cy="70" r="3"/>
+    <circle cx="350" cy="150" r="3"/>
+    <circle cx="550" cy="70" r="3"/>
+    <circle cx="750" cy="230" r="3"/>
+    <circle cx="900" cy="150" r="3"/>
+  </g>
+
+  <!-- Decorative network connections -->
+  <g stroke="#00ff9c" stroke-opacity="0.25" stroke-width="2">
+    <line x1="150" y1="70" x2="350" y2="150"/>
+    <line x1="350" y1="150" x2="550" y2="70"/>
+    <line x1="550" y1="70" x2="750" y2="230"/>
+    <line x1="750" y1="230" x2="900" y2="150"/>
+  </g>
+
+  <!-- Terminal -->
+  <text x="70" y="105"
+        fill="#00ff9c"
+        font-family="monospace"
+        font-size="18">
+    user@security-lab:~$
+  </text>
+
+  <!-- Main title -->
+  <text x="70" y="150"
+        fill="#ffffff"
+        font-family="monospace"
+        font-size="38"
+        font-weight="bold">
+    CYBERSECURITY
+  </text>
+
+  <!-- Subtitle -->
+  <text x="70" y="185"
+        fill="#9ca3af"
+        font-family="monospace"
+        font-size="20">
+    NETWORK • SECURITY • PYTHON • LINUX
+  </text>
+
+  <!-- Status -->
+  <text x="70" y="230"
+        fill="#00ff9c"
+        font-family="monospace"
+        font-size="15">
+    [ SYSTEM ONLINE ] [ LEARNING MODE ]
+  </text>
+
+  <!-- Bottom line -->
+  <rect x="70" y="255" width="860" height="1" fill="url(#line)"/>
+
+</svg>
