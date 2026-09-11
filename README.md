@@ -87,7 +87,7 @@ Interests  : Penetration Testing, Network Defense, System Hardening
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfroozBehrooznick&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&text_color=E8E8E8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfroozBehrooznick&hide_border=true&background=0A0E0A&stroke=173A17&ring=00FF41&fire=00FF41&currStreakNum=E8E8E8&sideNums=E8E8E8&currStreakLabel=00FF41&sideLabels=E8E8E8&dates=808080" />
 
 </div>
 
