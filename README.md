@@ -14,7 +14,6 @@ Name       : Afrooz Behrooznick
 Role       : Computer Engineering Student
 Domain     : Computer Networks & Cybersecurity
 Status     : Learning offensive security, one packet at a time
-Shell      : zsh — because bash is too mainstream
 ```
 
 <br>
@@ -32,11 +31,12 @@ Interests  : Penetration Testing, Network Defense, System Hardening
 <img src="assets/banner_status.svg" alt="status log" />
 
 ```
-[OK]      CEH (Certified Ethical Hacker) — completed
+[OK]      CEH (Certified Ethical Hacker)
 [OK]      Core development background — Python / C / C++
-[RUNNING] Shifting focus from software development to practical cybersecurity
+[OK]      Shifting focus from software development to practical cybersecurity
 [RUNNING] Learning penetration testing & vulnerability assessment
-[QUEUED]  OSCP-style hands-on labs
+[QUEUED]  Building practical cybersecurity projects
+
 ```
 
 <br>
@@ -75,7 +75,6 @@ Interests  : Penetration Testing, Network Defense, System Hardening
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
 
 <br>
 
@@ -83,12 +82,12 @@ Interests  : Penetration Testing, Network Defense, System Hardening
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=E8E8E8&icon_color=00FF41&ring_color=00FF41" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=E8E8E8" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AfroozBehrooznick&show_icons=true&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=E8E8E8&icon_color=00FF41&ring_color=00FF41" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfroozBehrooznick&layout=compact&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=E8E8E8" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfroozBehrooznick&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
@@ -100,18 +99,10 @@ Interests  : Penetration Testing, Network Defense, System Hardening
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:affro.nick.84@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/Afrooz_Behrooznick)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/AfroozBehrooznick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AfroozBehrooznick)
 
 </div>
 
 <br>
 
-<div align="center">
-
-```
-root@security:~$ exit
-logout
-connection to Afrooz closed.
-```
-
-</div>
+<img src="assets/banner_exit.svg" alt="contact" />
